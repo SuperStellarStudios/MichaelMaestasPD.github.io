@@ -63,5 +63,4 @@
 			<br>
 			<h3>Week 1</h3>
 			<p>For the first week I have to say I was surprised at the workflow. The topics were fun but all the hype around 			the intensity of the course was maybe over zealous as it didn’t relate to the digital media program very much. We 			designed and played our board games many times over the week and it was  great and fun icebreaker to meet my 				classmates and work together collaboratively. It was a great experience working with the ABQ Film Tour Devs to 				try to make a short clip. I wasn’t very proud of the portion I edited but it was what I could do with my skills 			and the time I had. The experience was super useful though as I had never used premier and finally got to use a 			really good video editing tool. I look forward to working on the projects and really working hard as the weeks 				go on. I also promise to push myself for optimal growth so I can carve a path for my future throughout the 				bootcamp.</p>
-	</body>
-</html>
+
