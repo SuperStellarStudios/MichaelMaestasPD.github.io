@@ -20,7 +20,7 @@
 					LinkedIn</a>
 			</li>
 			<li>
-				<a href="/images/MichaelMaestasResume.pdf" target="_blank">
+				<a href="./images/MichaelMaestasResume.pdf" target="_blank">
 					Resume</a>
 			</li>
 			</ul>
