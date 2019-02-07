@@ -7,7 +7,7 @@
 			Professional Development
 		</h1>
 		<!-- version number / last updated -->
-		<p>Last Updated: Jan 29th 2019</p>
+		<p>Last Updated: Feb 6th 2019</p>
 		<p>Career Buddy: Eric Hillmeyer</p>
 		<h2>My Links</h2>
 		<ul>
@@ -18,6 +18,10 @@
 			<li>
 				<a href="https://www.linkedin.com/in/michael-maestas-52a598133/" target="_blank">
 					LinkedIn</a>
+			</li>
+			<li>
+				<a href="/images/MichaelMaestasResume" target="_blank">
+					Resume</a>
 			</li>
 			</ul>
 		<div name="homework">
