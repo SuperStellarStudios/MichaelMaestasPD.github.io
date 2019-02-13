@@ -62,12 +62,12 @@
 			<p> <strong>Version 1</strong></p>
 			<p>Hi, I’m Michael Maestas I make games to Inspire the people that play them. Ive been using Unity to make them. 			Have you played any good games recently?</p>
 			<h2> Visual Speaks </h2>
-		<img src="./images/PdPic.jpg" height="300" width="400" alt="Picture of my visual speaks">
+		<img src="./images/PdPic.jpg" height="378" width="504" alt="Picture of my visual speaks">
 		<p>Image 1: This picture of a cow is both metaphorical and kind of literal. The cow represents Chick-Fil-A (My current 			employer). It also represents the way I feel in life working full time there. I do enjoy life but in a way I felt like 			live stock. Doing repetitive things everyday and trapped inside the same system doing something I'm not passionate 			about.</p>
 		<p>Image 2: I think the two kids lifting dumbells up represents where I want to be in 5 years. Hopefully doing something 		I enjoy that helps me and pushes my life forward. I want to push the limits of my abilities and talents to do the achieve 		my goals and dreams.</p>
 		<h3>Cheffin' It Up</h3>
-		<p>BackBurners:</p>
-		<p>FrontBurners:</p>
+		<p>BackBurners: Decide what I want to do.(Job/Buisness) -- Improving my skills and confidence.</p>
+		<p>FrontBurners: Working on building my portfolio. -- Networking and establishing connections</p>
 		</div>
 		<div name="reflections">
 			<h2>Weekly Reflections</h2>
