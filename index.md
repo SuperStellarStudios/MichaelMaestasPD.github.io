@@ -65,6 +65,9 @@
 		<img src="./images/PdPic.jpg" height="300" width="400" alt="Picture of my visual speaks">
 		<p>Image 1: This picture of a cow is both metaphorical and kind of literal. The cow represents Chick-Fil-A (My current 			employer). It also represents the way I feel in life working full time there. I do enjoy life but in a way I felt like 			live stock. Doing repetitive things everyday and trapped inside the same system doing something I'm not passionate 			about.</p>
 		<p>Image 2: I think the two kids lifting dumbells up represents where I want to be in 5 years. Hopefully doing something 		I enjoy that helps me and pushes my life forward. I want to push the limits of my abilities and talents to do the achieve 		my goals and dreams.</p>
+		<h3>Cheffin' It Up</h3>
+		<p>BackBurners:</p>
+		<p>FrontBurners:</p>
 		</div>
 		<div name="reflections">
 			<h2>Weekly Reflections</h2>
@@ -73,4 +76,6 @@
 			<p>For the first week I have to say I was surprised at the workflow. The topics were fun but all the hype around 			the intensity of the course was maybe over zealous as it didn’t relate to the digital media program very much. We 			designed and played our board games many times over the week and it was  great and fun icebreaker to meet my 				classmates and work together collaboratively. It was a great experience working with the ABQ Film Tour Devs to 				try to make a short clip. I wasn’t very proud of the portion I edited but it was what I could do with my skills 			and the time I had. The experience was super useful though as I had never used premier and finally got to use a 			really good video editing tool. I look forward to working on the projects and really working hard as the weeks 				go on. I also promise to push myself for optimal growth so I can carve a path for my future throughout the 				bootcamp.</p>
 			<h3>Week 2</h3>
 			<p>As the second week progressed I can feel the pace of work ramping up rapidly. We started work on Unity and 				Vyond as well as meeting with our group to begin our work on project-podcast. Over the week I worked hours on 				Unity attempting to make a 3rd person over the shoulder game but the progress was too slow. At the end of the 				week I decided to switch gears to a sidescrolling platformer instead. All this while completing my prodev and 				working. I just hope I am able to keep all my gears turning as I head into the later weeks.</p>
+			<h3>Week 3</h3>
+			<p>For week 3 I worked on my unity game for the entire week. While including some time working on the podcast 				project at the same time. For my game I designed a double jump and then worked on making a menu screen and end 				game screen. I finished what I had with my game but I wish I had the skills to do more with it. But over the 				weekend I was also relieved to be done with it. I really enjoyed all of the speakers on Friday as they all gave 			me some inspiration and insight. </p>
 
