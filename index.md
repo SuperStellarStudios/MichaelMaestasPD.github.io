@@ -68,6 +68,7 @@
 		<h3>Cheffin' It Up</h3>
 		<p>BackBurners: Decide what I want to do.(Job/Buisness) -- Improving my skills and confidence.</p>
 		<p>FrontBurners: Working on building my portfolio. -- Networking and establishing connections</p>
+			//https://www.meetup.com/abqgames/
 		</div>
 		<div name="reflections">
 			<h2>Weekly Reflections</h2>
